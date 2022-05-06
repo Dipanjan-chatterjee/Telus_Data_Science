@@ -1,6 +1,7 @@
 # Telus_Data_Science
 Data Science solution 
 
+
 Pre-Requisite:
 One need to install some required packages to run this code. The step to perform the installation is:
 

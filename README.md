@@ -2,8 +2,10 @@
 Data Science solution 
 
 Pre-Requisite:
-One need to install wikipediaapi to run this code. The step to perform the installation is:
+One need to install some required packages to run this code. The step to perform the installation is:
 
+**pip3 install pandas**
 **pip3 install wikipedia-api**
+**pip3 install beautifulsoup4**
 
-1. **telus_task1_submission.py ** files contains the solution for Task1. The output file is located in the same location named C**anadian_Company_Details.csv**
+1. ****telus_task1_submission.py: ****  This file contains the solution for Task1. To run this program one need to run the following command through terminal:

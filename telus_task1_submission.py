@@ -17,7 +17,7 @@ from datetime import datetime
 
 wiki = wikipediaapi.Wikipedia('en')
 
-#This function uses wikipediaapi to extract the summary directly from the url using company_name
+"""This function uses wikipediaapi to extract the summary using company name"""
 def wikipedia_call(company_name,limit):
   summary = wiki.page(company_name).summary[0:limit]
   return summary

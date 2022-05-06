@@ -4,7 +4,7 @@ Data Science solution
 Pre-Requisite:
 One need to install some required packages to run this code. The step to perform the installation is:
 
-** pip3 install pandas **
+**pip3 install pandas**
 ** pip3 install wikipedia-api **
 ** pip3 install beautifulsoup4 **
 

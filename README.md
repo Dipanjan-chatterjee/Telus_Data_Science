@@ -14,6 +14,8 @@ One need to install some required packages to run this code. The step to perform
 
 **pip3 install beautifulsoup4**
 
+**pip3 install fuzzywuzzy**
+
 1. ## telus_task1_submission.py:  
 This file contains the solution for Task1. To run this program one need to run the following command through terminal:
 
